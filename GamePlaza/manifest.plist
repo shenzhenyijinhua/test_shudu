@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://117.25.156.254:8074/Update/Phone/shudu78/GamePlaza.ipa</string>
+					<string>http://222.76.219.115:8074/Update/Phone/shudu78/GamePlaza.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://117.25.156.254:8074/Update/Phone/shudu78/Icon-57.png</string>
+					<string>http://222.76.219.115:8074/Update/Phone/shudu78/Icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://117.25.156.254:8074/Update/Phone/shudu78/Icon-512.png</string>
+					<string>http://222.76.219.115:8074/Update/Phone/shudu78/Icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
